@@ -20,21 +20,18 @@
 
 > 普通用户
 
+
 ![341257671-59327893-6ccc-4bc8-bb35-ce69e4210019](files/341257671-59327893-6ccc-4bc8-bb35-ce69e4210019.gif)
-
-
 
 ## 安装教程🌞
 
 ```
-1. 运行环境准备mysql8 + java8 + node14.16.1 + redis
+1. 运行环境准备mysql8 + java8 + node14.16.1
 
 2. 配置maven路径，加载依赖
 
 3. 运行sql文件，确保application.yml或config.properties的数据库名称和账号密码是数据库所在主机的账号密码
 ```
-
-
 
 ## 使用说明🌞
 
@@ -51,17 +48,11 @@ SpringBoot+Vue项目的部署详情可以查看这篇CSDN博客：http://t.csdni
 前后端不分离项目的部署流程可以查看这篇CSDN博客：http://t.csdnimg.cn/CslA5
 ```
 
-
-
 ## CSDN项目合集🌞
 
 点击前往：http://t.csdnimg.cn/Q4u84
 
-
-
-## 联系我🌞
-
-**有偿获取完整源码或调试代码**
+# 联系我🌞
 
 🐧：1902317191
 
